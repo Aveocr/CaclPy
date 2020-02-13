@@ -5,7 +5,7 @@ Python скачать его вы можете <a href="https://www.python.org/d
 <code>python -m pip install numpy</code> </br></br>
 <hr></p>
 </br>
-<p style="font-size: 20px"><strong>Функции</strong></p><p>
+<h2><strong>Функции</strong></h2><p>
 +, -, *, / - базовые арифмитические операции</br>
 mod - нахождение остатка от деления первого числа на второе</br>
 div - целочисленное деление первого числа на второе</br>
