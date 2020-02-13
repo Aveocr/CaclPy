@@ -1,6 +1,6 @@
 # CaclPy
 Calc Python 
-<p><center>Chicken Calc</center></p>
+<p styel='text-align="center"'>Chicken Calc</p>
 <p>
 +, -, *, / - базовые арифмитические операции</br>
 mod - нахождение остатка от деления первого числа на второе</br>
