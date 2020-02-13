@@ -1,6 +1,6 @@
 # Chicken Calc
 <p>Чтобы программа работала успешно, вам надо установить Python3</br>
-Python скачать его вы можете <a href="https://www.python.org/downloads/">здесь</a> </br
+Python скачать его вы можете <a href="https://www.python.org/downloads/">здесь</a>.</br>
 Также для работы потребуется установить бибилотеку numpy </br>
 <code>python -m pip install numpy</code> </br></br>
 <hr></p>
